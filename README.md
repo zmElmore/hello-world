@@ -1,2 +1,3 @@
 # hello-world
-Hello, I'm new
+Zachary Elmore
+Hello, I'm new.
